@@ -2,11 +2,13 @@
 
 #### Me chamo Larissa, sou Dev Front-End
 
+![Larissa GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissa1222&count_private=true)
+
 ## Um pouco sobre mim
 - Sou estagiária do time de App na Eduzz.
 - Aprendendo React Native .
 - Adaptando meus conhecimentos para mobile.
-- Estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
+- Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva.
 
 ## Meus Contatos
 
