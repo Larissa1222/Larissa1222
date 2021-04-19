@@ -3,7 +3,7 @@
 #### Me chamo Larissa, sou Dev Front-End
 
 
-![Larissa Martins Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larissa1222&)
+![Larissa Martins Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larissa1222)
 
 ## Um pouco sobre mim
 - Sou estagiária do time de App na Eduzz.
