@@ -1,13 +1,13 @@
 ## Bem vindos ao meu repositório!!! 😄
 
-#### Me chamo Larissa, sou Dev Front-End
+#### Me chamo Larissa, sou Dev Front-End, e atualmente busco mais conhecimento no Back-End
 
 
 ![Larissa Martins Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larissa1222)
 
 ## Um pouco sobre mim
 - Sou estagiária do time de App na Eduzz.
-- Aprendendo React Native .
+- Aprendendo React Native, Rxjs e Node.
 - Adaptando meus conhecimentos para mobile.
 - Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva.
 
