@@ -1,6 +1,4 @@
-## Bem vindos ao meu repositório!!! 😄
-
-#### Me chamo Larissa, sou Dev Back-End
+### Me chamo Larissa, sou Dev Back-End
 
 
 ![Larissa Martins Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larissa1222)
