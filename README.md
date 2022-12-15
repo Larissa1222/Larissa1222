@@ -3,7 +3,7 @@
 ## Um pouco sobre mim
 - Jr Back-End no Backoffice Eduzz.
 - Estudando conceitos de boas práticas e a stack usada no dia-a-dia
-- Cursando o último semestre de A.D.S na Newton Paiva.
+- Formada Tecnólogo em A.D.S na Newton Paiva.
 
 ## Meus Contatos
 
