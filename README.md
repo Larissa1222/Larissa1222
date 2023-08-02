@@ -1,7 +1,7 @@
 ### Me chamo Larissa, sou Dev Back-End
 
 ## Um pouco sobre mim
-- Jr Back-End na Eduzz, atualmente no chatbot e ticketbot (IA).
+- Back-End na Eduzz, atualmente no chatbot e ticketbot (IA).
 
 
 ## Meus Contatos
