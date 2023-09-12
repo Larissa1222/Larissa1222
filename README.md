@@ -1,12 +1,20 @@
-### Me chamo Larissa, sou Dev Back-End
+## Welcome to my github!
+I am a Back-End Developer, infatuated with problem resolution.
 
-## Um pouco sobre mim
-- Back-End na Eduzz, atualmente no chatbot e ticketbot (IA).
+With experience in:
+- JavaScript and TypeScript using the Node.js framework
+- PHP with the Laravel framework
+- Python
+- Git, GitHub, and Bitbucket
+- Docker
+- Workers and RabbitMQ
+- Agile Frameworks
+- Unit tests
+
+I have been working on multiple back-end projects, applying clean code and good development practices, focusing on problem-solving and keeping projects up to date. I also have communication skills that enable productive interactions with stakeholders and team members.
 
 
-## Meus Contatos
+## Contact
 
 <a href="https://linkedin.com/in/larissa-martins-60314a1aa/" target="_blank"><img src="https://slackmojis.com/emojis/711-linkedin/download" width="30px"></a>
 
-## Minha Stack
-[![Stack](https://skills.thijs.gg/icons?i=js,typescript,html,css,react,nodejs,php,python,docker&theme=light)](https://skills.thijs.gg)
