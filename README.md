@@ -134,15 +134,6 @@ APIs REST · Microsserviços · Arquitetura Distribuída · Integração entre S
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Larissa1222&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa1222&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 Estou sempre aberta a trocar ideias sobre back-end, arquitetura e cloud.
